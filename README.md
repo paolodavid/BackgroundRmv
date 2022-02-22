@@ -10,4 +10,4 @@ Created using these libraries/framework:
 - OpenCV 4.5.5
 
 # Credits
-- https://www.youtube.com/watch?v=k7cVPGpnels&t=1s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+- https://bit.ly/3M30Fx0
